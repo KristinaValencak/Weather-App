@@ -1,4 +1,7 @@
 .weather {
+    width:100%;
+    max-width: 300px;
+    box-sizing: border-box;
     place-self: center;
     padding: 40px;
     border-radius: 10px;
